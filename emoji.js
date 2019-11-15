@@ -5,7 +5,7 @@ let emoji = [
     char: "😀", 
     name: "grinning face", 
     keywords: "face | grin | grinning face",   
-    category: "Smileys & Emotion"
+    category: "Smileys & Emotion" 
   },   
   {
     no: 2, 
