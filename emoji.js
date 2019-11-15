@@ -107,7 +107,7 @@ let emoji = [
     category: "Smileys & Emotion"
   },
   {
-    no: 14,
+    no: 14, 
     codes: "1F970",
     char: "🥰",
     name: "smiling face with hearts",
