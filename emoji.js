@@ -6,7 +6,7 @@ let emoji = [
     name: "grinning face", 
     keywords: "face | grin | grinning face",   
     category: "Smileys & Emotion" 
-  },   
+  },    
   {
     no: 2, 
     codes: "1F603",
