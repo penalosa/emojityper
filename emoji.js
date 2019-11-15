@@ -3,7 +3,7 @@ let emoji = [
     no: 1,
     codes: "1F600",
     char: "😀",
-    name: "grinning face",
+    name: "grinning face", 
     keywords: "face | grin | grinning face",
     category: "Smileys & Emotion"
   },
