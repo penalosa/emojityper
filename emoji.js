@@ -10,7 +10,7 @@ let emoji = [
   {
     no: 2, 
     codes: "1F603",
-    char: "😃",
+    char: "😃", 
     name: "grinning face with big eyes",
     keywords: "face | grinning face with big eyes | mouth | open | smile",
     category: "Smileys & Emotion"
