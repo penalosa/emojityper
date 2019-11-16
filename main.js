@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function()  {
 const parseEmoji = t => {
   t = t.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "");
   t = t.replace(/\s{2,}/g, " ");
-  let r = ""; 
+  let r = "";  
   const emoji = document.getElementById("emoji");
   while (emoji.firstChild) {
     emoji.removeChild(emoji.firstChild);
