@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function()  {
   initApp();
-});
+}); 
 const parseEmoji = t => {
   t = t.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "");
   t = t.replace(/\s{2,}/g, " ");
