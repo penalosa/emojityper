@@ -8,7 +8,7 @@ const parseEmoji = t => {
   const emoji = document.getElementById("emoji");
   while (emoji.firstChild) {
     emoji.removeChild(emoji.firstChild);
-  }
+  } 
   let words = t.split(" ");
   console.log(words);
   words.forEach(w => {
