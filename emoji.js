@@ -8,7 +8,7 @@ let emoji = [
     category: "Smileys & Emotion" 
   },     
   {
-    no: 2, 
+    no: 2,  
     codes: "1F603",
     char: "😃", 
     name: "grinning face with big eyes",
